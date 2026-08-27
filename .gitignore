@@ -1,0 +1,22 @@
+# Sistema operacional
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# IDEs e editores
+.idea/
+.vscode/
+*.code-workspace
+
+# Arquivos temporários e registros
+*.tmp
+*.temp
+*.log
+*~
+
+# Saídas locais de compilação
+build/
+*.elf
+*.bin
+*.map
+

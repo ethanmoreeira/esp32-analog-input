@@ -200,7 +200,9 @@ O código completo está em [`firmware/pratica01-entrada-analogica.ino`](firmwar
 
 ## Relatório acadêmico
 
-📄 [Abrir ou baixar o relatório final em PDF](docs/relatorio-pratica-01-entrada-analogica-esp32.pdf)
+📄 [Abrir ou baixar diretamente o relatório final em PDF](https://raw.githubusercontent.com/ethanmoreeira/esp32-analog-input/main/docs/relatorio-pratica-01-entrada-analogica-esp32.pdf)
+
+O link acima aponta para o arquivo PDF bruto e evita a pré-visualização interna do GitHub.
 
 
 ## Cuidados elétricos

@@ -200,7 +200,7 @@ O código completo está em [`firmware/pratica01-entrada-analogica.ino`](firmwar
 
 ## Relatório acadêmico
 
-- [`Relatório em PDF`](docs/relatorio-pratica-01-entrada-analogica-esp32.pdf)
+- [`Abrir ou baixar o relatório final em PDF`](docs/relatorio-pratica-01-entrada-analogica-esp32.pdf?raw=1)
 
 
 ## Cuidados elétricos

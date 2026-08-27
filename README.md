@@ -164,10 +164,10 @@ O registro do verde em 0,534 V demonstra a manutenção do estado dentro da faix
 
 ## Demonstração
 
-- [▶ Demonstração do circuito físico](media/demonstracao-pratica-01.mp4) — 35 MB
-- [▶ Teste das transições no Monitor Serial](media/teste-transicoes-monitor-serial.mp4) — 10 MB
+- [▶ Demonstração do circuito físico](media/demonstracao-pratica-01.mp4?raw=true) — 35 MB
+- [▶ Teste das transições no Monitor Serial](media/teste-transicoes-monitor-serial.mp4?raw=true) — 10 MB
 
-Os vídeos estão no repositório. Na página do GitHub, clique em **View raw** ou no botão de download para assistir. As fotografias e capturas acima mantêm os principais resultados visíveis diretamente no README e no relatório.
+Os links acima abrem ou baixam o vídeo diretamente. As fotografias e capturas de tela acima mantêm os principais resultados visíveis sem necessidade de download.
 
 ## Firmware
 

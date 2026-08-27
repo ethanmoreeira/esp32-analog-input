@@ -164,8 +164,8 @@ O registro do verde em 0,534 V demonstra a manutenção do estado dentro da faix
 
 ## Demonstração
 
-- [▶ Demonstração do circuito físico](media/demonstracao-pratica-01.mp4?raw=true) — 35 MB
-- [▶ Teste das transições no Monitor Serial](media/teste-transicoes-monitor-serial.mp4?raw=true) — 10 MB
+- [▶ Demonstração do circuito físico](https://raw.githubusercontent.com/ethanmoreeira/esp32-analog-input/main/media/demonstracao-pratica-01.mp4) — 35 MB
+- [▶ Teste das transições no Monitor Serial](https://raw.githubusercontent.com/ethanmoreeira/esp32-analog-input/main/media/teste-transicoes-monitor-serial.mp4) — 10 MB
 
 Os links acima abrem ou baixam o vídeo diretamente. As fotografias e capturas de tela acima mantêm os principais resultados visíveis sem necessidade de download.
 

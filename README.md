@@ -162,12 +162,12 @@ O registro do verde em 0,534 V demonstra a manutenção do estado dentro da faix
 | [![LED amarelo aceso](assets/images/testes/14a-teste-led-amarelo-circuito.jpeg)](assets/images/testes/14a-teste-led-amarelo-circuito.jpeg) | [![Monitor Serial no estado amarelo](assets/images/testes/14b-teste-led-amarelo-monitor-serial.png)](assets/images/testes/14b-teste-led-amarelo-monitor-serial.png) |
 | [![LED vermelho aceso](assets/images/testes/15a-teste-led-vermelho-circuito.jpeg)](assets/images/testes/15a-teste-led-vermelho-circuito.jpeg) | [![Monitor Serial no estado vermelho](assets/images/testes/15b-teste-led-vermelho-monitor-serial.png)](assets/images/testes/15b-teste-led-vermelho-monitor-serial.png) |
 
-## Vídeos
+## Demonstração
 
-- [Demonstração do circuito físico](media/demonstracao-pratica-01.mp4)
-- [Teste das transições no Monitor Serial](media/teste-transicoes-monitor-serial.mp4)
+- [▶ Demonstração do circuito físico](media/demonstracao-pratica-01.mp4) — 35 MB
+- [▶ Teste das transições no Monitor Serial](media/teste-transicoes-monitor-serial.mp4) — 10 MB
 
-Os vídeos são evidências complementares. As fotografias e capturas acima mantêm os principais resultados visíveis diretamente no GitHub e no relatório.
+Os vídeos estão no repositório. Na página do GitHub, clique em **View raw** ou no botão de download para assistir. As fotografias e capturas acima mantêm os principais resultados visíveis diretamente no README e no relatório.
 
 ## Firmware
 
@@ -200,7 +200,7 @@ O código completo está em [`firmware/pratica01-entrada-analogica.ino`](firmwar
 
 ## Relatório acadêmico
 
-- [`Abrir ou baixar o relatório final em PDF`](docs/relatorio-pratica-01-entrada-analogica-esp32.pdf?raw=1)
+📄 [Abrir ou baixar o relatório final em PDF](docs/relatorio-pratica-01-entrada-analogica-esp32.pdf)
 
 
 ## Cuidados elétricos
